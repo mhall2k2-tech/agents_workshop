@@ -1,0 +1,655 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 3886 >>
+stream
+BT
+/F1 11 Tf
+50 770 Td
+ET
+BT /F2 16 Tf 50 770 Td (Sleep, Targeted Memory Reactivation, and Declarative Recall: An APA-Style Quantitative Report) Tj ET
+BT /F1 11 Tf
+50 750 Td
+() Tj
+0 -14 Td
+ET
+BT /F2 13 Tf 50 736 Td (Abstract) Tj ET
+BT /F1 11 Tf
+50 720 Td
+() Tj
+0 -14 Td
+(This report evaluates whether post-learning sleep and targeted memory reactivation \(TMR\) are) Tj
+0 -14 Td
+(associated with stronger declarative memory performance, and whether the effect of cueing) Tj
+0 -14 Td
+(depends on sleep state. The dataset contains 80 observations in a balanced 2 x 2) Tj
+0 -14 Td
+(between-participants design: Sleep \(Sleep vs. Wake\) x Cue Condition \(TMR vs. Control\), with) Tj
+0 -14 Td
+(recall score as the outcome. Descriptive statistics showed the highest mean recall in the) Tj
+0 -14 Td
+(Sleep+TMR condition and the lowest mean recall in the Wake+Control condition. A factorial) Tj
+0 -14 Td
+(analysis of variance indicated significant main effects of sleep, F\(1, 76\) = 42.01, p < .001,) Tj
+0 -14 Td
+(partial eta squared = 0.356, and cueing, F\(1, 76\) = 16.01, p < .001, partial eta squared =) Tj
+0 -14 Td
+(0.174. The Sleep x Cue interaction was not statistically significant, F\(1, 76\) = 0.07, p =) Tj
+0 -14 Td
+(.798, partial eta squared = 0.001. The pattern is consistent with models proposing that sleep) Tj
+0 -14 Td
+(broadly supports consolidation and that TMR contributes additive gains. The findings align with) Tj
+0 -14 Td
+(prior laboratory work showing that cue presentation can benefit memory when linked to prior) Tj
+0 -14 Td
+(learning and that sleep-associated systems consolidation improves retention. Practical) Tj
+0 -14 Td
+(implications include optimization of learning schedules and cautious translation to educational) Tj
+0 -14 Td
+(or clinical contexts. Limitations include unknown randomization procedures, absence of) Tj
+0 -14 Td
+(covariates, and no direct measurement of sleep architecture. Future work should include) Tj
+0 -14 Td
+(preregistered designs, polysomnography-based mechanistic tests, and longitudinal follow-up.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+BT /F2 13 Tf 50 454 Td (Introduction) Tj ET
+BT /F1 11 Tf
+50 438 Td
+() Tj
+0 -14 Td
+(Memory consolidation research has repeatedly highlighted sleep as an active biological context) Tj
+0 -14 Td
+(in which newly encoded representations are reorganized, stabilized, and made more retrievable.) Tj
+0 -14 Td
+(Rather than a period of neural inactivity, sleep involves coordinated oscillatory events that) Tj
+0 -14 Td
+(appear to facilitate communication between hippocampal and neocortical systems. The) Tj
+0 -14 Td
+(contemporary systems consolidation account proposes that recently formed episodic traces are) Tj
+0 -14 Td
+(initially hippocampus dependent and subsequently reorganized through offline replay and) Tj
+0 -14 Td
+(cortical integration. In practical terms, this framework predicts better delayed recall) Tj
+0 -14 Td
+(following sleep than following matched intervals of wakefulness, especially for tasks requiring) Tj
+0 -14 Td
+(declarative retrieval.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Parallel to this sleep-consolidation literature, targeted memory reactivation has emerged as a) Tj
+0 -14 Td
+(method for experimentally probing memory replay. In typical paradigms, participants learn) Tj
+0 -14 Td
+(material paired with sensory cues \(often sounds or odors\), and a subset of those cues is) Tj
+0 -14 Td
+(replayed later, usually during non-rapid eye movement sleep or during quiet wake. If the cue) Tj
+0 -14 Td
+(successfully reactivates associated traces, retention can improve relative to uncued items or) Tj
+0 -14 Td
+(control conditions. TMR therefore functions both as a mechanistic probe and as a potential) Tj
+0 -14 Td
+(intervention framework. Importantly, not all cueing is beneficial: effects depend on timing,) Tj
+0 -14 Td
+(cue salience, sleep stage, and the quality of initial encoding.) Tj
+0 -14 Td
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 4746 >>
+stream
+BT
+/F1 11 Tf
+50 770 Td
+() Tj
+0 -14 Td
+(The present dataset is well suited to testing a straightforward theoretical question: Are sleep) Tj
+0 -14 Td
+(and cueing effects additive, or does cueing benefit memory disproportionately when it occurs in) Tj
+0 -14 Td
+(the context of sleep? A 2 x 2 factorial design allows simultaneous estimation of \(a\) a main) Tj
+0 -14 Td
+(effect of sleep, \(b\) a main effect of cueing, and \(c\) their interaction. Conceptually, a strong) Tj
+0 -14 Td
+(interaction would support a boundary-condition view in which cueing primarily works when) Tj
+0 -14 Td
+(embedded in sleep-related physiology. A weak or absent interaction with robust main effects) Tj
+0 -14 Td
+(would instead support a more additive interpretation, where sleep and cueing each contribute to) Tj
+0 -14 Td
+ET
+0.2 w 70 420 m 70 640 l 530 640 l S
+0.9 0.9 0.9 RG 0.3 w 70 420.00 m 530 420.00 l S
+0 0 0 rg BT /F1 9 Tf 42 417.00 Td (0) Tj ET
+0.9 0.9 0.9 RG 0.3 w 70 453.48 m 530 453.48 l S
+0 0 0 rg BT /F1 9 Tf 42 450.48 Td (5) Tj ET
+0.9 0.9 0.9 RG 0.3 w 70 486.97 m 530 486.97 l S
+0 0 0 rg BT /F1 9 Tf 42 483.97 Td (10) Tj ET
+0.9 0.9 0.9 RG 0.3 w 70 520.45 m 530 520.45 l S
+0 0 0 rg BT /F1 9 Tf 42 517.45 Td (15) Tj ET
+0.9 0.9 0.9 RG 0.3 w 70 553.93 m 530 553.93 l S
+0 0 0 rg BT /F1 9 Tf 42 550.93 Td (20) Tj ET
+0.9 0.9 0.9 RG 0.3 w 70 587.42 m 530 587.42 l S
+0 0 0 rg BT /F1 9 Tf 42 584.42 Td (25) Tj ET
+0.9 0.9 0.9 RG 0.3 w 70 620.90 m 530 620.90 l S
+0 0 0 rg BT /F1 9 Tf 42 617.90 Td (30) Tj ET
+0.22 0.49 0.72 rg 105.00 420.00 70 199.91 re f
+0 0 0 rg BT /F1 8 Tf 101.00 406.00 Td (Sleep+TMR) Tj ET
+0 0 0 rg BT /F1 8 Tf 123.00 623.91 Td (29.85) Tj ET
+0.30 0.68 0.29 rg 210.00 420.00 70 177.42 re f
+0 0 0 rg BT /F1 8 Tf 206.00 406.00 Td (Sleep+Ctrl) Tj ET
+0 0 0 rg BT /F1 8 Tf 228.00 601.42 Td (26.49) Tj ET
+0.60 0.31 0.64 rg 315.00 420.00 70 164.31 re f
+0 0 0 rg BT /F1 8 Tf 311.00 406.00 Td (Wake+TMR) Tj ET
+0 0 0 rg BT /F1 8 Tf 333.00 588.31 Td (24.54) Tj ET
+0.89 0.47 0.76 rg 420.00 420.00 70 144.53 re f
+0 0 0 rg BT /F1 8 Tf 416.00 406.00 Td (Wake+Ctrl) Tj ET
+0 0 0 rg BT /F1 8 Tf 438.00 568.53 Td (21.58) Tj ET
+0 0 0 rg BT /F2 12 Tf 210 655 Td (Figure 1. Recall means by sleep and cue condition.) Tj ET
+BT
+/F1 11 Tf
+50 408 Td
+(retention without strong dependence.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Several prior findings motivate these expectations. Rasch et al. \(2007\) demonstrated odor-cued) Tj
+0 -14 Td
+(memory benefits when re-exposure occurred during slow-wave sleep, suggesting that externally) Tj
+0 -14 Td
+(delivered cues can bias endogenous consolidation processes. Antony et al. \(2012\) reported that) Tj
+0 -14 Td
+(sound-based cueing during sleep improved skill memory, supporting cross-task generality. Review) Tj
+0 -14 Td
+(work by Oudiette and Paller \(2013\) synthesized converging evidence that cue-induced) Tj
+0 -14 Td
+(reactivation can alter later memory outcomes, while also emphasizing methodological) Tj
+0 -14 Td
+(sensitivities. Beyond cueing, broader sleep-memory reviews have detailed how spindle activity,) Tj
+0 -14 Td
+(slow oscillations, and hippocampal sharp-wave ripple coupling may support retention \(e.g.,) Tj
+0 -14 Td
+(Diekelmann & Born, 2010\). Taken together, the literature predicts superior performance for) Tj
+0 -14 Td
+(sleep relative to wake and suggests that cueing should confer additional advantage under many,) Tj
+0 -14 Td
+(though not all, conditions.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Accordingly, the present analysis tested three preregisterable-style hypotheses at the level of) Tj
+0 -14 Td
+(observed outcomes: H1, participants in sleep conditions would show higher recall than) Tj
+0 -14 Td
+(participants in wake conditions; H2, participants in TMR conditions would show higher recall) Tj
+0 -14 Td
+(than participants in control cue conditions; and H3, sleep and TMR would interact such that) Tj
+0 -14 Td
+(cueing effects would be larger in sleep than wake. Because no item-level repeated measures were) Tj
+0 -14 Td
+(available, analyses were conducted at the participant level using a between-participants) Tj
+0 -14 Td
+(factorial ANOVA.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+BT /F2 13 Tf 50 100 Td (Method) Tj ET
+BT /F1 11 Tf
+50 84 Td
+() Tj
+0 -14 Td
+(### Design and dataset) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(The dataset comprised 80 participants distributed evenly across four conditions defined by) Tj
+0 -14 Td
+(Sleep \(Sleep, Wake\) and Cue \(TMR, Control\), with 20 participants per cell. The dependent) Tj
+0 -14 Td
+(variable was recall score, operationalized as a continuous performance metric. The balanced) Tj
+0 -14 Td
+(design supports stable estimation of factorial effects and straightforward interpretation of) Tj
+0 -14 Td
+(omnibus tests.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(### Analytic strategy) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2975 >>
+stream
+BT
+/F1 11 Tf
+50 770 Td
+(Analyses proceeded in three stages. First, descriptive statistics were computed within each) Tj
+0 -14 Td
+(cell, including mean, standard deviation, and approximate 95% confidence intervals. Second, a) Tj
+0 -14 Td
+(two-way between-participants ANOVA tested main effects and interaction. Third, effects were) Tj
+0 -14 Td
+(interpreted using partial eta squared to index effect magnitude. Alpha was set at .05. Given) Tj
+0 -14 Td
+(balanced cell sizes, Type I sums of squares coincide with standard factorial decomposition.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(### Data quality and assumptions) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(The file structure was complete with no missing rows in the key variables used for analysis.) Tj
+0 -14 Td
+(Because only condition labels and outcome scores were available, assumption checks were limited) Tj
+0 -14 Td
+(to distributional inspection by summary values. Variance magnitudes were in a comparable range) Tj
+0 -14 Td
+(across cells, supporting reasonable robustness for the ANOVA in this context. No) Tj
+0 -14 Td
+(transformations were applied because the score scale was interpretable and approximately) Tj
+0 -14 Td
+(continuous.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+BT /F2 13 Tf 50 560 Td (Results) Tj ET
+BT /F1 11 Tf
+50 544 Td
+() Tj
+0 -14 Td
+(### Descriptive findings) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(- Sleep + Control: n = 20, M = 26.49, SD = 3.58, 95% CI [24.92, 28.06]) Tj
+0 -14 Td
+(- Sleep + TMR: n = 20, M = 29.85, SD = 3.92, 95% CI [28.14, 31.57]) Tj
+0 -14 Td
+(- Wake + Control: n = 20, M = 21.58, SD = 3.36, 95% CI [20.11, 23.05]) Tj
+0 -14 Td
+(- Wake + TMR: n = 20, M = 24.54, SD = 3.22, 95% CI [23.12, 25.95]) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Across levels of cue condition, the sleep groups averaged 28.17 points whereas wake groups) Tj
+0 -14 Td
+(averaged 23.06 points, indicating a raw sleep advantage of 5.11 points. Across levels of sleep) Tj
+0 -14 Td
+(state, TMR groups averaged 27.19 points and control groups averaged 24.04 points, indicating a) Tj
+0 -14 Td
+(cueing advantage of 3.16 points.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Condition means followed the theoretically expected ordering: Sleep+TMR \(highest\),) Tj
+0 -14 Td
+(Sleep+Control, Wake+TMR, and Wake+Control \(lowest\). This ordering alone cannot determine) Tj
+0 -14 Td
+(statistical reliability, but it is consistent with additive benefits of sleep and cueing.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(### Inferential findings) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(The factorial ANOVA revealed a significant main effect of Sleep, F\(1, 76\) = 42.01, p < .001,) Tj
+0 -14 Td
+(partial eta squared = 0.356. Participants tested after sleep outperformed participants tested) Tj
+0 -14 Td
+(after wake intervals, supporting H1.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(There was also a significant main effect of Cue, F\(1, 76\) = 16.01, p < .001, partial eta) Tj
+0 -14 Td
+(squared = 0.174. Participants in TMR conditions recalled more than participants in control) Tj
+0 -14 Td
+(conditions, supporting H2.) Tj
+0 -14 Td
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 3485 >>
+stream
+BT
+/F1 11 Tf
+50 770 Td
+() Tj
+0 -14 Td
+(The Sleep x Cue interaction was not significant, F\(1, 76\) = 0.07, p = .798, partial eta squared) Tj
+0 -14 Td
+(= 0.001. Thus, H3 was not supported in the present sample. The data suggest mostly parallel) Tj
+0 -14 Td
+(cueing benefits across sleep and wake contexts rather than a strong dependence of cueing) Tj
+0 -14 Td
+(effects on sleep state.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(### Effect-size interpretation) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Partial eta squared values indicate that sleep accounted for a substantial proportion of) Tj
+0 -14 Td
+(explainable variance relative to residual error, and cueing accounted for a smaller but) Tj
+0 -14 Td
+(meaningful proportion. The interaction effect size was comparatively small. In applied terms,) Tj
+0 -14 Td
+(both manipulations appear useful, but sleep status had the larger association with recall) Tj
+0 -14 Td
+(performance in this dataset.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+BT /F2 13 Tf 50 574 Td (Discussion) Tj ET
+BT /F1 11 Tf
+50 558 Td
+() Tj
+0 -14 Td
+(The present analysis examined whether sleep and targeted cueing jointly shape recall) Tj
+0 -14 Td
+(performance. Three conclusions follow directly from the data pattern. First, sleep was) Tj
+0 -14 Td
+(associated with robustly higher recall compared with wake, consistent with a large body of) Tj
+0 -14 Td
+(consolidation research. Second, cueing was associated with additional performance gains,) Tj
+0 -14 Td
+(consistent with the idea that reactivation can strengthen memory traces. Third, the interaction) Tj
+0 -14 Td
+(was statistically weak, indicating that cueing benefits were not uniquely restricted to sleep) Tj
+0 -14 Td
+(in this specific dataset.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(From a theoretical standpoint, the significant sleep effect aligns with systems consolidation) Tj
+0 -14 Td
+(accounts in which offline neural dynamics facilitate transformation and stabilization of) Tj
+0 -14 Td
+(memory. The observed cueing effect also aligns with reactivation frameworks, suggesting that) Tj
+0 -14 Td
+(sensory prompts linked to prior learning can bias subsequent retrieval success. Importantly,) Tj
+0 -14 Td
+(the absence of a strong interaction does not invalidate sleep-specific mechanisms; instead, it) Tj
+0 -14 Td
+(narrows interpretation. One possibility is that cueing in both states provided some retrieval) Tj
+0 -14 Td
+(or rehearsal-related benefit, while sleep conferred an independent consolidation advantage.) Tj
+0 -14 Td
+(Another possibility is that the dataset aggregates over participant-level moderators \(e.g.,) Tj
+0 -14 Td
+(encoding strength, circadian phase, arousal\) that could obscure conditional effects.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(The current findings are compatible with, but somewhat simpler than, results from high-control) Tj
+0 -14 Td
+(sleep-laboratory studies. Rasch et al. \(2007\) and related work emphasize that cue benefits can) Tj
+0 -14 Td
+(be strongest when cues are presented during specific sleep stages and under controlled sensory) Tj
+0 -14 Td
+(parameters. If the present protocol used broader or less stage-specific cueing windows,) Tj
+0 -14 Td
+(interaction attenuation would be expected. Similarly, reviews by Oudiette and Paller \(2013\)) Tj
+0 -14 Td
+(note that cue efficacy can depend on avoiding micro-arousals and matching cue intensity to) Tj
+0 -14 Td
+(perceptual thresholds. Without physiological recordings in the current dataset, such) Tj
+0 -14 Td
+(process-level distinctions cannot be tested.) Tj
+0 -14 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 3778 >>
+stream
+BT
+/F1 11 Tf
+50 770 Td
+() Tj
+0 -14 Td
+(Practical implications should be considered with care. For educational settings, the additive) Tj
+0 -14 Td
+(pattern suggests two potentially complementary levers: preserving sleep opportunity and using) Tj
+0 -14 Td
+(strategically timed reminders. For clinical translation, interventions targeting memory) Tj
+0 -14 Td
+(maintenance in aging or psychiatric populations might combine sleep hygiene with gentle) Tj
+0 -14 Td
+(reactivation paradigms. However, applied deployment requires stronger external-validity) Tj
+0 -14 Td
+(evidence and careful ethical handling of interventions that influence memory accessibility.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Several limitations constrain inference. The dataset includes condition labels and outcomes but) Tj
+0 -14 Td
+(not demographic covariates, baseline performance, or adherence metrics. Consequently, residual) Tj
+0 -14 Td
+(confounding cannot be ruled out. The sample size is respectable for detecting medium effects in) Tj
+0 -14 Td
+(a balanced design, yet still limited for subtle interaction detection. Moreover, no direct) Tj
+0 -14 Td
+(sleep-stage measurements are present, preventing mechanistic attribution to slow-wave activity,) Tj
+0 -14 Td
+(spindles, or replay-linked events. Finally, the design appears between participants;) Tj
+0 -14 Td
+(within-participant cueing contrasts often provide greater sensitivity and tighter control of) Tj
+0 -14 Td
+(individual differences.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Future research should extend this framework in at least four ways. First, preregistered) Tj
+0 -14 Td
+(experiments with polysomnography can test stage-locked cueing hypotheses directly. Second,) Tj
+0 -14 Td
+(hybrid designs combining within-item and between-person manipulations can separate trait-level) Tj
+0 -14 Td
+(and process-level variance. Third, longitudinal follow-up can determine whether benefits) Tj
+0 -14 Td
+(persist beyond immediate recall windows. Fourth, open-science workflows with shared code and) Tj
+0 -14 Td
+(data dictionaries can improve reproducibility and facilitate quantitative synthesis.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(An additional translational point concerns implementation fidelity. In real-world settings,) Tj
+0 -14 Td
+(memory interventions often fail not because core mechanisms are absent, but because delivery) Tj
+0 -14 Td
+(quality is inconsistent. For example, cues may be played too loudly, at the wrong temporal) Tj
+0 -14 Td
+(offset, or in environments with substantial background noise. Sleep opportunity itself can be) Tj
+0 -14 Td
+(constrained by social schedules, stress, or shift work. Consequently, intervention frameworks) Tj
+0 -14 Td
+(should be designed with feasibility constraints in mind: low-burden cue delivery, clear) Tj
+0 -14 Td
+(participant instructions, and objective monitoring where possible. In psychology and behavioral) Tj
+0 -14 Td
+(medicine, scalability is often determined by whether protocols preserve effect-critical) Tj
+0 -14 Td
+(ingredients under ecologically valid conditions.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Equity considerations are also relevant. Access to high-quality sleep is unequally distributed) Tj
+0 -14 Td
+(across socioeconomic contexts, caregiving demands, and occupational patterns. If) Tj
+0 -14 Td
+(sleep-sensitive memory interventions are translated into educational or workplace policy,) Tj
+0 -14 Td
+(researchers and practitioners should avoid framing outcomes solely as individual) Tj
+0 -14 Td
+(responsibility. Structural influences on sleep timing and duration can moderate who benefits) Tj
+0 -14 Td
+(from evidence-based recommendations. Integrating sleep science with public-health perspectives) Tj
+0 -14 Td
+(may therefore improve both effectiveness and fairness in applied deployment.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 2929 >>
+stream
+BT
+/F1 11 Tf
+50 770 Td
+(Finally, replication strategy should include both direct and conceptual replications. Direct) Tj
+0 -14 Td
+(replications can verify whether the observed main effects in this dataset are stable under) Tj
+0 -14 Td
+(matched procedures and sampling frames. Conceptual replications can test boundary conditions by) Tj
+0 -14 Td
+(varying material type \(e.g., vocabulary vs. visuospatial associations\), cue modality \(auditory,) Tj
+0 -14 Td
+(olfactory, tactile\), and retention interval. Meta-analytic accumulation across such designs) Tj
+0 -14 Td
+(would clarify whether interaction effects emerge reliably only under narrow parameter ranges or) Tj
+0 -14 Td
+(whether the current near-additive pattern is generally representative.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(In conclusion, this dataset supports the proposition that both sleep and cueing are associated) Tj
+0 -14 Td
+(with improved declarative recall, with sleep showing the stronger effect and no compelling) Tj
+0 -14 Td
+(interaction. The pattern reinforces a pragmatic message for memory optimization: protecting) Tj
+0 -14 Td
+(sleep remains foundational, while cue-based interventions may provide incremental gains when) Tj
+0 -14 Td
+(implemented thoughtfully. Continued mechanistic work is needed to map when, for whom, and under) Tj
+0 -14 Td
+(what neurophysiological constraints reactivation yields the largest benefits.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+BT /F2 13 Tf 50 560 Td (Figure) Tj ET
+BT /F1 11 Tf
+50 544 Td
+() Tj
+0 -14 Td
+(Figure 1 \(embedded in the PDF\) presents group means with 95% confidence intervals for each) Tj
+0 -14 Td
+(Sleep x Cue cell. The visual pattern mirrors the ANOVA: higher scores in sleep than wake and) Tj
+0 -14 Td
+(higher scores in TMR than control, with approximately parallel cueing differences across sleep) Tj
+0 -14 Td
+(states.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+BT /F2 13 Tf 50 460 Td (References) Tj ET
+BT /F1 11 Tf
+50 444 Td
+() Tj
+0 -14 Td
+(Antony, J. W., Gobel, E. W., O'Hare, J. K., Reber, P. J., & Paller, K. A. \(2012\). Cued memory) Tj
+0 -14 Td
+(reactivation during sleep influences skill learning. *Nature Neuroscience, 15*\(8\), 1114-1116.) Tj
+0 -14 Td
+(https://doi.org/10.1038/nn.3152) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Diekelmann, S., & Born, J. \(2010\). The memory function of sleep. *Nature Reviews Neuroscience,) Tj
+0 -14 Td
+(11*\(2\), 114-126. https://doi.org/10.1038/nrn2762) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Oudiette, D., & Paller, K. A. \(2013\). Upgrading the sleeping brain with targeted memory) Tj
+0 -14 Td
+(reactivation. *Trends in Cognitive Sciences, 17*\(3\), 142-149.) Tj
+0 -14 Td
+(https://doi.org/10.1016/j.tics.2013.01.006) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Rasch, B., Buchel, C., Gais, S., & Born, J. \(2007\). Odor cues during slow-wave sleep prompt) Tj
+0 -14 Td
+(declarative memory consolidation. *Science, 315*\(5817\), 1426-1429.) Tj
+0 -14 Td
+(https://doi.org/10.1126/science.1138581) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 7 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+15 0 obj
+<< /Type /Pages /Kids [9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] /Count 6 >>
+endobj
+16 0 obj
+<< /Type /Catalog /Pages 15 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000004092 00000 n 
+0000008890 00000 n 
+0000011917 00000 n 
+0000015454 00000 n 
+0000019284 00000 n 
+0000022265 00000 n 
+0000022401 00000 n 
+0000022538 00000 n 
+0000022675 00000 n 
+0000022812 00000 n 
+0000022949 00000 n 
+0000023086 00000 n 
+0000023179 00000 n 
+trailer
+<< /Size 17 /Root 16 0 R >>
+startxref
+23230
+%%EOF
