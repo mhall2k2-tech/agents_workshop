@@ -1,0 +1,155 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 1111 >>
+stream
+BT /F1 16 Tf 72.00 740.00 Td (Sleep and Targeted Memory Reactivation in a 2x2 Factorial Design) Tj ET
+BT /F1 12 Tf 72.00 718.00 Td (APA-Style Statistical Report) Tj ET
+BT /F1 11 Tf 72.00 696.00 Td (Date: 2026-03-06) Tj ET
+BT /F1 14 Tf 72.00 660.00 Td (Abstract) Tj ET
+BT /F1 11 Tf 72.00 636.00 Td (This report analyses a synthetic memory dataset using a between-participants 2 x 2 design with) Tj ET
+BT /F1 11 Tf 72.00 620.00 Td (Sleep \(Sleep vs Wake\) and Cue \(TMR vs Control\) as factors and recall score as the outcome. A) Tj ET
+BT /F1 11 Tf 72.00 604.00 Td (fixed-effects factorial ANOVA was conducted on N = 80 observations \(n = 20 per cell\). Results) Tj ET
+BT /F1 11 Tf 72.00 588.00 Td (showed statistically significant main effects of Sleep and Cue, but no evidence for a Sleep x) Tj ET
+BT /F1 11 Tf 72.00 572.00 Td (Cue interaction. Descriptive statistics, ANOVA results, and an interaction plot are provided.) Tj ET
+BT /F1 11 Tf 72.00 556.00 Td (All values in this report are computed directly from the supplied dataset without imputation or) Tj ET
+BT /F1 11 Tf 72.00 540.00 Td (fabrication.) Tj ET
+endstream
+endobj
+3 0 obj
+<< /Length 711 >>
+stream
+BT /F1 16 Tf 72.00 740.00 Td (Contents) Tj ET
+BT /F1 12 Tf 72.00 700.00 Td (Abstract .............................................................. 1) Tj ET
+BT /F1 12 Tf 72.00 676.00 Td (Introduction .......................................................... 3) Tj ET
+BT /F1 12 Tf 72.00 652.00 Td (Method ................................................................ 3) Tj ET
+BT /F1 12 Tf 72.00 628.00 Td (Results ............................................................... 4) Tj ET
+BT /F1 12 Tf 72.00 604.00 Td (Discussion ............................................................ 5) Tj ET
+BT /F1 12 Tf 72.00 580.00 Td (References ............................................................ 6) Tj ET
+endstream
+endobj
+4 0 obj
+<< /Length 889 >>
+stream
+BT /F1 14 Tf 72.00 740.00 Td (Introduction) Tj ET
+BT /F1 11 Tf 72.00 716.00 Td (The project question was whether sleep and cueing influence recall performance and whether they) Tj ET
+BT /F1 11 Tf 72.00 700.00 Td (interact in a memory task. The dataset is described as a synthetic experiment with two) Tj ET
+BT /F1 11 Tf 72.00 684.00 Td (between-participants factors and a continuous recall outcome \(0-40\).) Tj ET
+BT /F1 14 Tf 72.00 660.00 Td (Method) Tj ET
+BT /F1 11 Tf 72.00 638.00 Td (Data source: data/raw/sleep_memory_2x2.csv \(N = 80\).) Tj ET
+BT /F1 11 Tf 72.00 622.00 Td (Design: 2 x 2 between-participants factorial design.) Tj ET
+BT /F1 11 Tf 72.00 606.00 Td (Factors: Sleep \(Sleep, Wake\) and Cue \(Control, TMR\).) Tj ET
+BT /F1 11 Tf 72.00 590.00 Td (Outcome: recall_score.) Tj ET
+BT /F1 11 Tf 72.00 574.00 Td (Analysis: fixed-effects factorial ANOVA with alpha = .05.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Length 1723 >>
+stream
+BT /F1 14 Tf 72.00 740.00 Td (Results) Tj ET
+BT /F1 11 Tf 72.00 716.00 Td (Sleep main effect: F\(1, 76\) = 42.01, p < .001, partial eta squared = 0.356.) Tj ET
+BT /F1 11 Tf 72.00 700.00 Td (Cue main effect: F\(1, 76\) = 16.01, p < .001, partial eta squared = 0.174.) Tj ET
+BT /F1 11 Tf 72.00 684.00 Td (Sleep x Cue interaction: F\(1, 76\) = 0.07, p = .798, partial eta squared = 0.001.) Tj ET
+BT /F1 11 Tf 72.00 668.00 Td (Means: Sleep-Control 26.49, Sleep-TMR 29.85,) Tj ET
+BT /F1 11 Tf 72.00 652.00 Td (Wake-Control 21.58, Wake-TMR 24.54.) Tj ET
+BT /F1 11 Tf 72.00 626.00 Td (Figure 1) Tj ET
+BT /F1 11 Tf 72.00 610.00 Td (Interaction plot of Cue by Sleep condition for recall score means.) Tj ET
+1.00 w 90.00 260.00 m 90.00 480.00 l S
+1.00 w 90.00 260.00 m 510.00 260.00 l S
+1.00 w 86.00 260.00 m 90.00 260.00 l S
+BT /F1 9 Tf 58.00 256.00 Td (16) Tj ET
+1.00 w 86.00 315.00 m 90.00 315.00 l S
+BT /F1 9 Tf 58.00 311.00 Td (20) Tj ET
+1.00 w 86.00 370.00 m 90.00 370.00 l S
+BT /F1 9 Tf 58.00 366.00 Td (24) Tj ET
+1.00 w 86.00 425.00 m 90.00 425.00 l S
+BT /F1 9 Tf 58.00 421.00 Td (28) Tj ET
+1.00 w 86.00 480.00 m 90.00 480.00 l S
+BT /F1 9 Tf 58.00 476.00 Td (32) Tj ET
+1.00 w 180.00 260.00 m 180.00 256.00 l S
+1.00 w 390.00 260.00 m 390.00 256.00 l S
+BT /F1 10 Tf 162.00 242.00 Td (Control) Tj ET
+BT /F1 10 Tf 380.00 242.00 Td (TMR) Tj ET
+BT /F1 10 Tf 250.00 232.00 Td (Cue condition) Tj ET
+BT /F1 10 Tf 20.00 375.00 Td (Recall score) Tj ET
+1.50 w 180.00 404.28 m 390.00 450.47 l S
+177.50 401.78 5.00 5.00 re f
+387.50 447.97 5.00 5.00 re f
+BT /F1 10 Tf 398.00 452.47 Td (Sleep) Tj ET
+1.50 w 180.00 336.75 m 390.00 377.38 l S
+177.50 334.25 5.00 5.00 re f
+387.50 374.88 5.00 5.00 re f
+BT /F1 10 Tf 398.00 367.38 Td (Wake) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 741 >>
+stream
+BT /F1 14 Tf 72.00 740.00 Td (Discussion) Tj ET
+BT /F1 11 Tf 72.00 716.00 Td (The observed pattern indicates better recall for participants in the Sleep condition relative) Tj ET
+BT /F1 11 Tf 72.00 700.00 Td (to Wake and better recall for TMR relative to Control. The interaction term was not) Tj ET
+BT /F1 11 Tf 72.00 684.00 Td (statistically significant, which suggests the TMR-related difference was similar across sleep) Tj ET
+BT /F1 11 Tf 72.00 668.00 Td (conditions in this sample. These conclusions are limited to the provided synthetic dataset and) Tj ET
+BT /F1 11 Tf 72.00 652.00 Td (should be interpreted as exercise outcomes rather than confirmatory evidence from a) Tj ET
+BT /F1 11 Tf 72.00 636.00 Td (preregistered study.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Length 516 >>
+stream
+BT /F1 14 Tf 72.00 740.00 Td (References) Tj ET
+BT /F1 11 Tf 72.00 712.00 Td (Fisher, R. A. \(1925\). Statistical methods for research workers. Oliver and Boyd.) Tj ET
+BT /F1 11 Tf 72.00 687.00 Td (Lindsay, S. \(n.d.\). Project card [Course document]. agents_workshop/docs/project_card.md) Tj ET
+BT /F1 11 Tf 72.00 662.00 Td (R Core Team. \(2024\). R: A language and environment for statistical computing. R Foundation) Tj ET
+BT /F1 11 Tf 72.00 647.00 Td (for Statistical Computing. https://www.R-project.org/) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Pages /Count 6 /Kids [9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R] >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 5 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 8 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 7 0 R >>
+endobj
+15 0 obj
+<< /Type /Catalog /Pages 8 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000001242 00000 n 
+0000002004 00000 n 
+0000002944 00000 n 
+0000004719 00000 n 
+0000005511 00000 n 
+0000006078 00000 n 
+0000006170 00000 n 
+0000006296 00000 n 
+0000006423 00000 n 
+0000006550 00000 n 
+0000006677 00000 n 
+0000006804 00000 n 
+0000006931 00000 n 
+trailer
+<< /Size 16 /Root 15 0 R >>
+startxref
+6981
+%%EOF
