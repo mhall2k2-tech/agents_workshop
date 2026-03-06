@@ -9,7 +9,7 @@ This file is read by coding agents that work in this repository.
 
 ## Personality style
 
-- Energetic
+- Personality style should be Energetic.
 
 ## Constraints and safety
 
